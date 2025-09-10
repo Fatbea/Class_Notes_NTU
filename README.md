@@ -19,20 +19,17 @@ This repository collects my notes and documents related to **NTU_EEE_ET**. The f
 ## 📚 Contents List
 
 ### 🧠 6306 Digital IC
-- **Notes for 6306**: Important topics and contents derived by myself
+- **Notes for 6306**: 
 
 ### 🔁 6307 Analog IC
-- **Notes for 6307**: Important topics and contents derived by myself
+- **Notes for 6307**: 
 
 ### 🌍 6309 VLSI Systems
-- **Notes for 6309**: Important topics and contents derived by myself
+- **Notes for 6309**: 
 
 ### 🦾 6316 IC for AI
-- **Notes for 6316**: Important topics and contents derived by myself
+- **Notes for 6316**: 
 
-
-### 🔬 Interdisciplinary
-- The hippocampal sharp wave–ripple in memory retrieval for immediate use and consolidation [[paper](https://www.nature.com/articles/s41583-018-0077-1)]  [[full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6794196/)]
 
 ---
 
