@@ -9,35 +9,26 @@
 
 This repository collects the latest and influential papers and resources related to **robotic manipulation**. The focus is on:
 
-- [Generalist Manipulation Models & Methods](#-generalist-manipulation-models-and-methods)
-- [Reinforcement Learning (RL) on Robotics Manipulation](#-reinforcement-learning-rl-on-robotics-manipulation)
-- [World Model in Robot Manipulation](#-world-model-in-robot-manipulation)
-- [Skill Learning in Robotics](#-skill-learning-in-robotics) 
-- [Data & Benchmarks](#-data-and-benchmarks) 
-- [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
-- [Interdisciplinary](#-interdisciplinary)
-
+- [6306 Digital IC](#-6306 Digital IC)
+- [6307 Analog IC](#-reinforcement-learning-rl-on-robotics-manipulation)
+- [6309 VLSI Systems](#-world-model-in-robot-manipulation)
+- [6316 IC for AI](#-skill-learning-in-robotics) 
 
 ---
 
 ## 📚 Contents List
 
-### 🧠 Generalist Manipulation Models and Methods
-- **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project]()]
+### 🧠 6306 Digital IC
+- **Notes for 6306**: Important topics and contents derived by myself
 
+### 🔁 6307 Analog IC
+- **Notes for 6307**: Important topics and contents derived by myself
 
-### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+### 🌍 6309 VLSI Systems
+- **Notes for 6309**: Important topics and contents derived by myself
 
-
-### 🌍 World Model in Robot Manipulation 
-
-
-### 🦾 Skill Learning in Robotics
-
-### 📦 Data and Benchmarks
-
-### 🛠️ Hardware Projects on Robotics 
-
+### 🦾 6316 IC for AI
+- **Notes for 6316**: Important topics and contents derived by myself
 
 
 ### 🔬 Interdisciplinary
