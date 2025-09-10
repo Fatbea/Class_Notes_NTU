@@ -25,7 +25,7 @@ This repository collects my notes and documents related to **NTU_EEE_ET**. The f
 - **Notes for 6307**: 
 
 ### 🌍 6309 VLSI Systems
-- **Notes for 6309**: Link (obsidian://open?vault=Obsidian%20Vault&file=6309%20VLSI)
+- **Notes for 6309**: 
 
 ### 🦾 6316 IC for AI
 - **Notes for 6316**: 
