@@ -7,12 +7,12 @@
 
 ## 📌 Basic Info
 
-This repository collects the latest and influential papers and resources related to **robotic manipulation**. The focus is on:
+This repository collects my notes and documents related to **NTU_EEE_ET**. The focus is on:
 
-- [6306 Digital IC](#-6306 Digital IC)
-- [6307 Analog IC](#-reinforcement-learning-rl-on-robotics-manipulation)
-- [6309 VLSI Systems](#-world-model-in-robot-manipulation)
-- [6316 IC for AI](#-skill-learning-in-robotics) 
+- [6306 Digital IC](#-6306-Digital-IC)
+- [6307 Analog IC](#-6307-Analog-IC)
+- [6309 VLSI Systems](#-6309-VLSI-Systems)
+- [6316 IC for AI](#-6316-IC-for-AI) 
 
 ---
 
